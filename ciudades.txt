@@ -3,3 +3,10 @@ Bogotá
 Puerto Escondido
 Sinaloa 
 Coacalco
+Acapulco
+JEJEJE
+- git init
+-git status
+git add .
+-git add .
+- git commit -m "mensaje"
