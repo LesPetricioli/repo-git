@@ -6,3 +6,4 @@ Blablabla
 comando
 -git init
 -git status
+HOLA HOLA
