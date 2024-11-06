@@ -1,1 +1,4 @@
 Hola mundo 
+Quiero mucho a mi perro Chiquitin
+Práctica de Git
+Pasos para crear un repositorio 
